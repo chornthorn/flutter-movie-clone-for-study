@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    ".metadata": true,
+    "movie_clone.iml": true,
+    "pubspec.lock": true,
+    ".packages": true,
+    "README.md": true,
+    ".gitignore": true,
+    ".vscode": true,
+    ".dart_tool": true,
+    ".idea": true,
+    "build": true
+  }
+}
